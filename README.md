@@ -28,3 +28,6 @@ Create Project HelloApi
 https://www.nuget.org/packages/Swashbuckle.AspNetCore.Swagger/10.0.1#versions-body-tab
 - dotnet add package Swashbuck.AspNetCore --version 9.0.6
 - dotnet new webapi -o AYCAP.MinimalApi
+
+Create Project HelloMinialApi
+-dotnet new webapi -o AYCAP.MinimalApi
