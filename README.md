@@ -20,7 +20,8 @@ Create Project Hello
 - dotnet run bin/Release/net9.0/AYCAP.Hello.dll
 - code .
 - dotnet new webapi --help
-
+  
+Create Project HelloApi
 - dotnet new webapi -o AYCAP.HelloApi --use-program-main --use-controllers
 - cd AYCAP.HelloApi/
 - dotnet run
