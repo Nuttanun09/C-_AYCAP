@@ -1,0 +1,6 @@
+@AYCAP.MinimalApi_HostAddress = http://localhost:5129
+
+GET {{AYCAP.MinimalApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
