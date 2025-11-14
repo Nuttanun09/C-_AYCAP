@@ -18,8 +18,4 @@
     <Using Include="Xunit" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\AYCAP.ClipShare.Service\AYCAP.ClipShare.Service.csproj" />
-  </ItemGroup>
-
 </Project>
